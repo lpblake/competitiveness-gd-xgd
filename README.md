@@ -1,2 +1,2 @@
 # competitiveness-gd-xgd
-using goal difference to measure competitiveness in the epl and fawsl
+Using goal difference variance to measure competitiveness of different European soccer leagues. 
